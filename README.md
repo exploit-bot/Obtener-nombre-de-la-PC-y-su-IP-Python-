@@ -1,2 +1,6 @@
 # Obtener-nombre-de-la-PC-y-su-IP-Python-
-Aplicación hecha utilizando python. Librerias utilizadas: OS y socket. Con esta aplicación podemos llegar a conseguir el nombre de la PC que estamos usando u otra que este conectada a nuestra red local si sabemos su IPv4.
+- Aplicación hecha en Python. 
+- Librerias utilizadas: OS y socket. 
+
+
+Esta aplicación nos permite conseguir el nombre de la PC que estemos utilizando, o el de otra que esté conectada a nuestra red local en caso de conocer su IPv4.
